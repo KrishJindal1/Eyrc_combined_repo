@@ -34,6 +34,10 @@ MOTOR_RIGHT = '/Niti_Vahan/steeringRight/Cylinder/motorRight'
 # Sign detection, obstacle detection, lane detection, and visual marker detection.
 
 
+
+
+
+
 # ========================= PERSON 2 -> Parminder =========================
 # Path tracking/control, sign and obstacle behaviour, parking manoeuvre,
 # simulation connection, driving, and main().
